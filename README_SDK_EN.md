@@ -8,7 +8,7 @@ If you only need firmware source, visit [`eio-android-firmware`](https://github.
 
 ---
 
-## What’s inside
+## ✨ What’s inside
 
 | Module | AAR artifact | Purpose |
 |--------|--------------|---------|
@@ -20,7 +20,7 @@ All modules are **Kotlin‑only**, minSdk 21, compile/targetSdk 28.
 
 ---
 
-## Installation
+## 📦 Installation
 
 1. **Add EIO Maven repository** (GitHub Packages placeholder):
 
@@ -54,7 +54,7 @@ dependencies {
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
 ```kotlin
 class MainActivity : ComponentActivity() {
@@ -91,7 +91,7 @@ Full example in [`eio-samples/subtitle-demo`](https://github.com/zhenghaoyu-EIO/
 
 ---
 
-## Build from source
+## 🛠️ Build from source
 
 ```bash
 git clone https://github.com/zhenghaoyu-EIO/eio-android-sdk.git
@@ -100,7 +100,7 @@ git clone https://github.com/zhenghaoyu-EIO/eio-android-sdk.git
 
 ---
 
-## Firmware Environment
+## 🔗 Firmware Environment
 
 | Repo | Description |
 |------|-------------|
@@ -111,7 +111,7 @@ Flash firmware, enable USB debugging, and install your APK via `adb install`.
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 
 - [ ] `sensor` module – 9‑axis IMU fusion
 - [ ] `ar-core` – image tracking helpers
